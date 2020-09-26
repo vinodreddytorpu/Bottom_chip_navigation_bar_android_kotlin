@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="homeFragment">HomeFragment</string>
+    <string name="activityFragment">ActivityFragment</string>
+    <string name="dashboardFragment">DashboardFragment</string>
+    <string name="profileFragment">ProfileFragment</string>
+</resources>
